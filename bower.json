@@ -1,0 +1,28 @@
+{
+  "name": "hot_boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Kalamuna LLC <info@kalamuna.com> (http://www.kalamuna.com/)",
+    "Your name goes here <youremail@example.com> (http://yoursite.come)"
+  ],
+  "description": "Kalatheme is designed for people who want to get to work quickly so they can make things happen.",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Drupal",
+    "Panopoly"
+  ],
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/kalamuna/hot_boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+}
