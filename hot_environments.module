@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Bear Habitat feature.
+ */
+
+include_once 'hot_environments.features.inc';

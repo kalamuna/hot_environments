@@ -1,0 +1,14 @@
+name = HotEnvironments Local
+core = 7.x
+package = HotApps!
+project = hot_environments
+dependencies[] = ctools
+dependencies[] = hot_environments
+dependencies[] = strongarm
+features[ctools][] = strongarm:strongarm:1
+features[features_api][] = api:1
+features[variable][] = cache
+features[variable][] = error_level
+features[variable][] = file_temporary_path
+features[variable][] = preprocess_css
+features[variable][] = preprocess_js
